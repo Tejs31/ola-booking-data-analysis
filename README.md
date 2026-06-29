@@ -331,7 +331,7 @@ This project demonstrates the ability to:
 
 💼 LinkedIn: https://www.linkedin.com/in/tejas-vishwakarma-912680419/
 
-💻 GitHub: https://github.com/your-username
+💻 GitHub: https://github.com/Tejs31
 
 ---
 
